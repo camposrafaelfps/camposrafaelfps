@@ -12,4 +12,4 @@
 
 - 📫 E-mail: _camposrafaelfps@gmail.com_
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN:%20Rafael%20Campos-2867B2?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrcamposs/)](https://www.linkedin.com/in/rafaelrcamposs/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN:%20Rafael%20Campos-2867B2?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrcamposs/)](https://www.linkedin.com/in/rafaelrcamposs/) [![Instagram Badge](https://img.shields.io/badge/-INSTAGRAM:%20campoosrr-2867B2?style=flat-rounded&link=https://www.instagram.com/campoosrr/)](https://www.instagram.com/campoosrr/)
