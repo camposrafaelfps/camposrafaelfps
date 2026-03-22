@@ -1,16 +1,13 @@
-## Hi there 👋
+##  🚀 Sobre mim 
 
-<!--
-**camposrafaelfps/camposrafaelfps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Magento Front-end Developer + WordPress Fullstack + UX/UI/Web Designer* 
 
-Here are some ideas to get you started:
+- ⚡ Profissional com sólida trajetória no desenvolvimento de sites e soluções web, com forte atuação em front-end, UI/UX e WordPress. Experiência na criação de sites de destaque como Automax Fiat, Shopping Paragem, Gerafort, Vita Hospitalar, Turbo Brasil e Pub Major Look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente integro a equipe de desenvolvimento como Desenvolvedor Web da Sprinty Web Solutions com ênfase na criação de sites desenvolvidos com WordPress.
+
+- 💬 Interesses: ✈️ 📚 💻 ⚽ ☕
+
+- 📫 E-mail: _camposrafaelfps@gmail.com_
+
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN:%20Rafael%20Campos-2867B2?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelrcamposs/)](https://www.linkedin.com/in/rafaelrcamposs/)
