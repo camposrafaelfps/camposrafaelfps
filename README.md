@@ -1,6 +1,6 @@
 ##  🚀 Sobre mim 
 
-*Magento Front-end Developer + WordPress Fullstack + UX/UI/Web Designer* 
+**`Front-end | Web Developer | UI/UX Designer | Designer de Produto`**
 
 - ⚡ Profissional com sólida trajetória no desenvolvimento de sites e soluções web, com forte atuação em front-end, UI/UX e WordPress. Experiência na criação de sites de destaque como Automax Fiat, Shopping Paragem, Gerafort, Vita Hospitalar, Turbo Brasil e Pub Major Look.
 
