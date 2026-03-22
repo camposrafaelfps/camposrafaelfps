@@ -4,7 +4,7 @@
 
 - ⚡ Profissional com sólida trajetória no desenvolvimento de sites e soluções web, com forte atuação em front-end, UI/UX e WordPress. Experiência na criação de sites de destaque como Automax Fiat, Shopping Paragem, Gerafort, Vita Hospitalar, Turbo Brasil e Pub Major Look.
 
-- 🔭 Atualmente integro a equipe de desenvolvimento como Desenvolvedor Web da Sprinty Web Solutions com ênfase na criação de sites desenvolvidos com WordPress.
+- 🔭 Atualmente integro a equipe de desenvolvimento como Desenvolvedor Web da "[Sprinty Web Solutions](https://www.sprinty.com.br/)" com ênfase na criação de sites desenvolvidos com WordPress.
 
 - 💬 Interesses: ✈️ 📚 💻 ⚽ ☕
 
