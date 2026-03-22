@@ -12,7 +12,6 @@
 
 - 📫 E-mail: _camposrafaelfps@gmail.com_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelrcamposs)  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/campoosrr)
 
 
 ##  💻 Tecnologias
