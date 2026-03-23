@@ -2,7 +2,7 @@
 
 **`Front-end | Web Developer | UI/UX Designer | Designer de Produto`**
 
-- ⚡ Desenvolvedor Web com **10 anos de experiência**. Profissional com sólida trajetória no desenvolvimento de sites e soluções web, com forte atuação em front-end, UI/UX e WordPress. Experiência na criação de sites de destaque como "[Sprinty Web Solutions](), "[Sprinty Web Solutions](), "[Sprinty Web Solutions](), "[Sprinty Web Solutions](), "[Sprinty Web Solutions](), "[UniChat Live](https://www.unichat.live/), "[Cloak Store](https://cloakstore.com.br/), entre outros projetos."
+- ⚡ Desenvolvedor Web com **10 anos de experiência**. Profissional com sólida trajetória no desenvolvimento de sites e soluções web, com forte atuação em front-end, UI/UX e WordPress. Experiência na criação de sites de destaque como "[Lanza Arquitetos](https://www.lanzaarquitetos.com.br/), "[3A Investimentos](https://www.3ainvestimentos.com.br/), "[Academia Wanda Bambirra](https://www.academiawb.com.br/), "[Odonto Pediatria Brasil](https://www.odontopediatriabrasil.com.br/), "[BeautyLoc](https://www.beautyloc.com.br/), "[UniChat Live](https://www.unichat.live/), "[Cloak Store](https://cloakstore.com.br/), entre outros projetos."
 
 - 💻 Desenvolvimento de **layouts responsivos**, interfaces intuitivas e páginas otimizadas para conversão e usabilidade. Com **profundo conhecimento em HTML, CSS, WordPress (Elementor, BeTheme, Astra).**
 
