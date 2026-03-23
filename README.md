@@ -10,10 +10,16 @@
 
 - 💬 Interesses: ✈️ 📚 💻 ⚽ ☕
 
-- 📫 E-mail: _camposrafaelfps@gmail.com_
-
-
 
 ##  💻 Tecnologias
 
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/) [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Elementor](https://img.shields.io/badge/Elementor-9C27B0?style=for-the-badge&logo=elementor&logoColor=white)](https://elementor.com/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/) [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Elementor](https://img.shields.io/badge/Elementor-9C27B0?style=for-the-badge&logo=elementor&logoColor=white)](https://elementor.com/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
+## 
+
+- *Como desenvolvedor web, meu objetivo é criar soluções digitais que unam **design elegante, experiência do usuário e performance**, entregando resultados concretos para cada projeto.  Estou sempre aberto a **novas oportunidades, parcerias e desafios** que permitam transformar ideias em experiências digitais de alto impacto.*
+
+📫 Entre em contato:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil)  
+
+✉️ E-mail: _camposrafaelfps@gmail.com_
